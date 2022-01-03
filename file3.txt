@@ -1,1 +1,4 @@
  this is file3.txt
+
+This cahnges have done once i have pus the code to remote repo
+
